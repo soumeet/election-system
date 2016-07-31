@@ -1,0 +1,23 @@
+desc state;
+desc district;
+desc block;
+desc centre;
+desc party;
+desc voter;
+desc candidate;
+desc employee;
+desc security;
+desc election;
+desc vote_count;
+desc result;
+
+SELECT * FROM STATE;
+SELECT * FROM DISTRICT; 
+SELECT * FROM BLOCK;
+SELECT * FROM CENTRE;
+SELECT * FROM PARTY;
+SELECT * FROM EMPLOYEE;
+SELECT * FROM SECURITY;
+SELECT * FROM ELECTION;
+SELECT * FROM VOTE_COUNT;
+SELECT * FROM RESULT;
